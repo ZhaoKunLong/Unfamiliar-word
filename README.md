@@ -6,7 +6,7 @@ Learning English unfamiliar word list
 ### flow
   - add the word into sala words
   - export it into a file file+date.txt
-  - reader the works unfamiliar word and merge it with the export file
+  - reader the work unfamiliar word and merge it with the export file
   - do the unique
   - do the submit check.
   - use the result to replace the works with unfamiliar words
